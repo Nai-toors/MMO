@@ -1,0 +1,1 @@
+python -m ipykernel install --user --name=mmo_kernel --display-name="mmo_kernel"
